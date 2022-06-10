@@ -18,7 +18,7 @@ plugins=(
     aws
     git
     pip
-    pipenv
+    # pipenv not working with vscode
     colored-man-pages
     zsh-autosuggestions
     zsh-syntax-highlighting
