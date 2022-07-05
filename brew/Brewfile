@@ -22,6 +22,7 @@ brew "kubeval"
 brew "kustomize"
 brew "mas"
 brew "mosh"
+brew "neovim"
 brew "node"
 brew "perl"
 brew "python@3.10", link: true
