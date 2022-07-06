@@ -32,5 +32,8 @@
     # krew
     ~/.krew/krewfile: krew/krewfile
 
+    # nvim
+    ~/.config/nvim/init.lua: nvim/init.lua
+
 - shell:
     - [kubectl krew install < ~/.krew/krewfile]
