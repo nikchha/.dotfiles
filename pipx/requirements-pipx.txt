@@ -2,3 +2,4 @@ black
 pipenv
 pipupgrade
 memray
+virtualenv
